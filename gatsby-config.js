@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-theme-code-notes',
       options: {
-        contentPath: 'notes',
+        contentPath: 'snippnotes',
         basePath: '/',
         showThemeInfo: true,
         showDescriptionInSidebar: true,
