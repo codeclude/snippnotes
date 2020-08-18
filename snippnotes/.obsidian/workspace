@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "96ecb820938f91fc",
+        "id": "e078d80db65c7cd3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "example.md",
+            "file": "20-08-19.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "20-08-19.md",
     "example.md",
+    "example-note.md",
     "20-08-18.md"
   ]
 }

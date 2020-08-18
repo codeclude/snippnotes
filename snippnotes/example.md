@@ -1,14 +1,21 @@
 ---
-title: Note
+title: Example note
 tags:
-  - js
+  - example
 emoji: 👋
-link: https://
+link: https://itbuddy.pl
 ---
 
-# Title 
 This is an example note, see below for some code.
 
 ```js
-
+{
+  resolve: 'gatsby-theme-code-notes',
+  options: {
+    contentPath: 'notes',
+    basePath: '/',
+    showThemeInfo: true,
+    showDescriptionInSidebar: true,
+  },
+},
 ```
