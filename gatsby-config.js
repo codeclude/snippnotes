@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/snippnotes",
   siteMetadata: {
-    title: 'gatsby-starter-code-notes',
-    description: `A starter for gatsby-theme-code-notes`,
-    author: 'Zander',
+    title: 'snippnotes',
+    description: "A Journal for your daily basis code snippets",
+    author: 'korczynsk1',
   },
   plugins: [
     {
